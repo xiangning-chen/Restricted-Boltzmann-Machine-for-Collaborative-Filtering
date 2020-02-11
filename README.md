@@ -1,6 +1,2 @@
-# Restricted-Boltzmann-Machine-for-Collaborative-Filtering
-
-Implement of Restricted Boltzmann Machine for Collaborative Filtering
-Paper can be found at: http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf
-
-Via python & tensorflow
+# Restricted Boltzmann Machine for Collaborative Filtering
+My implement of [Restricted Boltzmann Machine for Collaborative Filtering](https://dl.acm.org/doi/10.1145/1273496.1273596)
